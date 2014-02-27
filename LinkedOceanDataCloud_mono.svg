@@ -64,21 +64,21 @@ viewBox="0 0 297 210"
   <style type="text/css">
    <![CDATA[
     @font-face { font-family:"Arial";src:url("#FontID0") format(svg)}
-    .str7 {stroke:#66C3D0;stroke-width:0.2}
-    .str8 {stroke:#9089B0;stroke-width:0.2}
-    .str6 {stroke:#B0CB1F;stroke-width:0.2}
-    .str5 {stroke:#F7AA47;stroke-width:0.2}
-    .str0 {stroke:#66C3D0;stroke-width:1.5}
-    .str2 {stroke:#9089B0;stroke-width:1.5}
-    .str4 {stroke:#B0CB1F;stroke-width:1.5}
-    .str1 {stroke:#F7AA47;stroke-width:1.5}
-    .str3 {stroke:#66C3D0;stroke-width:2}
+    .str8 {stroke:#5B5B5B;stroke-width:0.2}
+    .str7 {stroke:#898989;stroke-width:0.2}
+    .str6 {stroke:#B2B3B3;stroke-width:0.2}
+    .str5 {stroke:#D9DADA;stroke-width:0.2}
+    .str2 {stroke:#5B5B5B;stroke-width:1.5}
+    .str1 {stroke:#898989;stroke-width:1.5}
+    .str4 {stroke:#B2B3B3;stroke-width:1.5}
+    .str0 {stroke:#D9DADA;stroke-width:1.5}
+    .str3 {stroke:#898989;stroke-width:2}
     .fil0 {fill:none}
     .fil3 {fill:#2B2A29}
-    .fil1 {fill:#66C3D0}
-    .fil5 {fill:#9089B0}
-    .fil4 {fill:#B0CB1F}
-    .fil2 {fill:#F7AA47}
+    .fil5 {fill:#5B5B5B}
+    .fil1 {fill:#898989}
+    .fil4 {fill:#B2B3B3}
+    .fil2 {fill:#D9DADA}
     .fil6 {fill:#FEFEFE}
     .fnt3 {font-weight:bold;font-size:2.2447;font-family:'Arial'}
     .fnt1 {font-weight:bold;font-size:2.2912;font-family:'Arial'}
@@ -95,25 +95,25 @@ viewBox="0 0 297 210"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <line class="fil0 str0" x1="121.504" y1="123.91" x2="184.343" y2= "149.145" />
-  <line class="fil0 str1" x1="121.371" y1="123.155" x2="62.3332" y2= "99.0781" />
-  <line class="fil0 str1" x1="109.667" y1="48.7443" x2="104.931" y2= "65.8932" />
-  <polyline class="fil0 str1" points="127.093,86.4196 121.795,123.996 77.6688,59.778 "/>
-  <line class="fil0 str0" x1="121.504" y1="123.91" x2="163.985" y2= "157.601" />
-  <line class="fil0 str1" x1="80.299" y1="145.022" x2="122.102" y2= "123.909" />
+  <line class="fil0 str0" x1="121.371" y1="123.155" x2="62.3332" y2= "99.0781" />
+  <line class="fil0 str0" x1="109.667" y1="48.7443" x2="104.931" y2= "65.8932" />
+  <polyline class="fil0 str0" points="127.093,86.4196 121.795,123.996 77.6688,59.778 "/>
+  <line class="fil0 str1" x1="121.504" y1="123.91" x2="163.985" y2= "157.601" />
+  <line class="fil0 str0" x1="80.299" y1="145.022" x2="122.102" y2= "123.909" />
   <line class="fil0 str2" x1="121.795" y1="123.996" x2="223.219" y2= "124.985" />
   <line class="fil0 str2" x1="121.371" y1="123.155" x2="183.759" y2= "112.734" />
   <ellipse class="fil1" cx="183.963" cy="148.89" rx="14.6387" ry="5.39321"/>
+  <line class="fil0 str1" x1="121.504" y1="123.91" x2="184.343" y2= "149.145" />
   <line class="fil0 str3" x1="121.53" y1="124.056" x2="187.517" y2= "136.834" />
-  <line class="fil0 str0" x1="121.504" y1="123.91" x2="134.357" y2= "155.623" />
-  <line class="fil0 str0" x1="121.53" y1="124.056" x2="106.094" y2= "150.723" />
+  <line class="fil0 str1" x1="121.504" y1="123.91" x2="134.357" y2= "155.623" />
+  <line class="fil0 str1" x1="121.53" y1="124.056" x2="106.094" y2= "150.723" />
   <line class="fil0 str2" x1="146.654" y1="100.782" x2="160.244" y2= "82.7241" />
-  <polyline class="fil0 str1" points="127.093,86.4196 121.795,123.996 104.887,65.286 "/>
+  <polyline class="fil0 str0" points="127.093,86.4196 121.795,123.996 104.887,65.286 "/>
   <polyline class="fil0 str4" points="146.788,100.632 121.371,123.155 170.695,102.304 "/>
-  <polyline class="fil0 str1" points="63.6409,122.868 121.795,123.996 65.2391,134.946 "/>
-  <line class="fil0 str1" x1="121.795" y1="123.996" x2="63.6996" y2= "87.0521" />
-  <line class="fil0 str1" x1="121.371" y1="123.155" x2="64.1238" y2= "111.71" />
-  <line class="fil0 str1" x1="121.371" y1="123.155" x2="70.8888" y2= "74.898" />
+  <polyline class="fil0 str0" points="63.6409,122.868 121.795,123.996 65.2391,134.946 "/>
+  <line class="fil0 str0" x1="121.795" y1="123.996" x2="63.6996" y2= "87.0521" />
+  <line class="fil0 str0" x1="121.371" y1="123.155" x2="64.1238" y2= "111.71" />
+  <line class="fil0 str0" x1="121.371" y1="123.155" x2="70.8888" y2= "74.898" />
   <ellipse class="fil2" cx="121.371" cy="123.155" rx="14.6387" ry="5.39321"/>
   <text x="117.092" y="120.583"  class="fil3 fnt0">NERC </text>
   <text x="113.298" y="123.996"  class="fil3 fnt0">Vocabulary</text>
@@ -147,24 +147,24 @@ viewBox="0 0 297 210"
   <text x="154.604" y="84.858"  class="fil6 fnt1">Information</text>
   <text x="156.828" y="87.4177"  class="fil6 fnt1">System</text>
   <ellipse class="fil1" cx="105.943" cy="150.723" rx="14.6387" ry="5.39321"/>
-  <text x="96.8678" y="149.789"  class="fil3 fnt2">Rolling Deck</text>
-  <text x="95.9638" y="153.202"  class="fil3 fnt2">To Repository</text>
+  <text x="96.8678" y="149.789"  class="fil6 fnt2">Rolling Deck</text>
+  <text x="95.9638" y="153.202"  class="fil6 fnt2">To Repository</text>
   <ellipse class="fil1" cx="134.2" cy="155.623" rx="14.6387" ry="5.39321"/>
-  <text x="127.883" y="152.826"  class="fil3 fnt3">Biological &amp;</text>
-  <text x="121.207" y="155.334"  class="fil3 fnt3">Chemical Oceanography</text>
-  <text x="124.763" y="157.841"  class="fil3 fnt3">Data Management</text>
-  <text x="131.187" y="160.349"  class="fil3 fnt3">Office</text>
+  <text x="127.883" y="152.826"  class="fil6 fnt3">Biological &amp;</text>
+  <text x="121.207" y="155.334"  class="fil6 fnt3">Chemical Oceanography</text>
+  <text x="124.763" y="157.841"  class="fil6 fnt3">Data Management</text>
+  <text x="131.187" y="160.349"  class="fil6 fnt3">Office</text>
   <ellipse class="fil1" cx="187.517" cy="136.834" rx="14.6387" ry="5.39321"/>
-  <text x="179.897" y="146.522"  class="fil3 fnt2">BODC</text>
-  <text x="173.36" y="149.935"  class="fil3 fnt2">Published Data</text>
-  <text x="179.216" y="153.348"  class="fil3 fnt2">Library</text>
+  <text x="179.897" y="146.522"  class="fil6 fnt2">BODC</text>
+  <text x="173.36" y="149.935"  class="fil6 fnt2">Published Data</text>
+  <text x="179.216" y="153.348"  class="fil6 fnt2">Library</text>
   <ellipse class="fil5" cx="183.759" cy="112.734" rx="14.6387" ry="5.39321"/>
   <text x="175.426" y="110.591"  class="fil6 fnt4">International</text>
   <text x="175.009" y="113.72"  class="fil6 fnt4">Coastal Atlas</text>
   <text x="178.303" y="116.848"  class="fil6 fnt4">Network</text>
-  <text x="182.927" y="134.744"  class="fil3 fnt5">Index to</text>
-  <text x="176.005" y="137.445"  class="fil3 fnt5">Marine &amp; Lacustrine</text>
-  <text x="176.071" y="140.147"  class="fil3 fnt5">Geological Samples</text>
+  <text x="182.927" y="134.744"  class="fil6 fnt5">Index to</text>
+  <text x="176.005" y="137.445"  class="fil6 fnt5">Marine &amp; Lacustrine</text>
+  <text x="176.071" y="140.147"  class="fil6 fnt5">Geological Samples</text>
   <ellipse class="fil5" cx="187.588" cy="124.632" rx="14.6387" ry="5.39321"/>
   <text x="179.823" y="125.634"  class="fil6 fnt4">SeaDataNet</text>
   <ellipse class="fil2" cx="80.2991" cy="144.699" rx="14.6387" ry="5.39321"/>
@@ -172,22 +172,30 @@ viewBox="0 0 297 210"
   <text x="71.2761" y="145.615"  class="fil3 fnt1">Master Directory</text>
   <text x="74.8423" y="148.175"  class="fil3 fnt1">Keywords</text>
   <ellipse class="fil1" cx="164.012" cy="157.927" rx="14.6387" ry="5.39321"/>
-  <text x="159.908" y="155.35"  class="fil3 fnt6">British </text>
-  <text x="155.067" y="158.706"  class="fil3 fnt6">Broadcasting</text>
-  <text x="156.071" y="162.062"  class="fil3 fnt6">Corporation</text>
+  <text x="159.908" y="155.35"  class="fil6 fnt6">British </text>
+  <text x="155.067" y="158.706"  class="fil6 fnt6">Broadcasting</text>
+  <text x="156.071" y="162.062"  class="fil6 fnt6">Corporation</text>
   <text x="46.0587" y="150.262"  class="fil3 fnt0">Legend</text>
   <polygon class="fil3" points="46.0587,150.54 56.9213,150.54 56.9213,150.679 46.0587,150.679 "/>
-  <rect class="fil2 str5" x="46.1245" y="151.815" width="2.9104" height="2.9104"/>
-  <text x="49.9383" y="154.364"  class="fil3 fnt0">RDF Vocabulary resources</text>
+  <g id="_222226280">
+   <rect id="_222226088" class="fil2 str5" x="46.1245" y="151.815" width="2.9104" height="2.9104"/>
+   <text x="49.9383" y="154.364" id="_222226256" class="fil3 fnt0">RDF Vocabulary resources</text>
+  </g>
   <ellipse class="fil2" cx="104.887" cy="64.9645" rx="14.6387" ry="5.39321"/>
   <text x="95.5433" y="64.37"  class="fil3 fnt2">CSIRO Water</text>
   <text x="94.8063" y="67.7828"  class="fil3 fnt2">quality vocab.</text>
-  <rect class="fil4 str6" x="46.1245" y="155.828" width="2.9104" height="2.9104"/>
-  <text x="49.9383" y="158.376"  class="fil3 fnt0">Non-RDF Vocabulary resources</text>
-  <rect class="fil1 str7" x="46.1245" y="159.841" width="2.9104" height="2.9104"/>
-  <text x="49.9383" y="162.389"  class="fil3 fnt0">RDF (meta)data resources</text>
-  <rect class="fil5 str8" x="46.1245" y="163.853" width="2.9104" height="2.9104"/>
-  <text x="49.9383" y="166.402"  class="fil3 fnt0">Non-RDF (meta)data resources</text>
+  <g id="_222221408">
+   <rect id="_222221096" class="fil4 str6" x="46.1245" y="155.828" width="2.9104" height="2.9104"/>
+   <text x="49.9383" y="158.376" id="_222221336" class="fil3 fnt0">Non-RDF Vocabulary resources</text>
+  </g>
+  <g id="_222221816">
+   <rect id="_222221528" class="fil1 str7" x="46.1245" y="159.841" width="2.9104" height="2.9104"/>
+   <text x="49.9383" y="162.389" id="_222221744" class="fil3 fnt0">RDF (meta)data resources</text>
+  </g>
+  <g id="_222222344">
+   <rect id="_222222056" class="fil5 str8" x="46.1245" y="163.853" width="2.9104" height="2.9104"/>
+   <text x="49.9383" y="166.402" id="_222222272" class="fil3 fnt0">Non-RDF (meta)data resources</text>
+  </g>
   <ellipse class="fil2" cx="77.6688" cy="59.778" rx="14.6387" ry="5.39321"/>
   <text x="74.7939" y="57.6626"  class="fil3 fnt7">CEH</text>
   <text x="65.032" y="60.7762"  class="fil3 fnt7">Analytical Services</text>
